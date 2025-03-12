@@ -8,3 +8,8 @@
 | Warstwa 3 - Seciowa | Internetowa | Rozpoznaje, jakie drogi łączą poszczególne komputery (trasowanie) i decyduje, ile informacji należy przesłać jednym z połączeń, a ile innym. |
 | Warstwa 2 -  Łącza danych | Dostęp do sieci | Służą do przemieszczania datagramu pojedynczym łączem. | 
 | Warstwa 1 - Fizyczna | Dostęp do sieci | Określa ona wszystkie składniki sieci niezbędne do obsługi elektrycznego, optycznego, radiowego wysyłania i odbierania sygnałów. |
+|Porównanie modelu OSI i TPC/IP|
+|OSI| TPC/IP |
+| Model odniesienia OSI jest mniej skomplikowany| TCP/IP łączy warstwy łącza danych i fizyczną modelu OSI w jednej warstwie.|
+|Ma więcej warstw, a to pozwala na szybszą współpracę i rozwiązywanie problemów.| TCP/IP wydaje się prostszy, ponieważ ma mniej warstw.|
+|Najpopularniejsze protokoły TCP/IP|HTTP, Telnet, FTP, TFTP, SNMP, DNS, SMTP, X Window|
